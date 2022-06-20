@@ -1,3 +1,7 @@
 a=1
+<<<<<<< HEAD
 b=3
+=======
+b=2
+>>>>>>> 9afc1f8 (hello)
 print a+b

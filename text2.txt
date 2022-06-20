@@ -1,3 +1,7 @@
 a=8
+<<<<<<< HEAD
 b=10
+=======
+b=9
+>>>>>>> 9afc1f8 (hello)
 print a*b
